@@ -185,26 +185,26 @@ footer {
 
 @media (min-width: 768px) {
 
-.wrapper {
-	max-width: 800px;
-}
+	.wrapper {
+		max-width: 800px;
+	}
 
-.con-info label {
-	width: 30%;
-	display: inline-block;
-}
+	.con-info label {
+		width: 30%;
+		display: inline-block;
+	}
 
-input[type="text"],
-input[type="email"],
-input[type="name"],
-select {
-	width: 69%;
-}
+	input[type="text"],
+	input[type="email"],
+	input[type="name"],
+	select {
+		width: 69%;
+	}
 
-#zip-code {
-	width: 30%;
+	#zip-code {
+		width: 30%;
+	}
 }
-
 
 
 
